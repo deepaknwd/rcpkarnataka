@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rcp-ten.vercel.app/sitemap.xml
